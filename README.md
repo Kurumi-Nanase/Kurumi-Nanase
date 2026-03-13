@@ -7,5 +7,5 @@
   🇯🇵 Software developer · Website designer · Always building something new.
 ↓ Profile visits ↓
 </pre>
-<img src="https://count.getloli.com/get/@Kurumi-Nanase?theme=gelbooru" /><br>
+<img src="https://count.getloli.com/get/@Kurumi-Nanase?theme=gelbooru&darkmode=0" /><br>
 </div>
